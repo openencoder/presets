@@ -1,0 +1,9 @@
+{
+    "title": "CineForm High",
+    "type": "Professional",
+    "format": "mov",
+    "author": "Evan Hsu",
+    "parameters": {
+	"c:v": "cfhd", "quality": "high"
+    }
+}

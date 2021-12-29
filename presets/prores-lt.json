@@ -1,0 +1,9 @@
+{
+    "title": "ProRes LT",
+    "type": "Professional",
+    "format": "mov",
+    "author": "Evan Hsu",
+    "parameters": {
+	"c:v": "prores", "profile:v": "1"
+    }
+}

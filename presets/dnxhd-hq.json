@@ -1,0 +1,9 @@
+{
+    "title": "DNXHD HQ",
+    "type": "Professional",
+    "format": "mov",
+    "author": "Evan Hsu",
+    "parameters": {
+	"c:v": "dnxhd",	"profile:v": "dnxhr_hq", "pix_fmt": "yuv422p"
+    }
+}

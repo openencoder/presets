@@ -1,0 +1,9 @@
+{
+    "title": "ProRes 4444XQ",
+    "type": "Professional",
+    "format": "mov",
+    "author": "Evan Hsu",
+    "parameters": {
+	"c:v": "prores", "profile:v": "5"
+    }
+}
