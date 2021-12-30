@@ -4,7 +4,7 @@
     "format": "mp4",
     "author": "Evan Hsu",
     "parameters": {
-        "c:v": "libx264", "crf": "18", "vf": "scale='min(3860,iw)':-1",
+        "c:v": "libx264", "crf": "18", "vf": "scale='min(3840,iw)':-1",
         "c:a": "aac", "ar": "44100", "b:a": "320k"
     }
 }
