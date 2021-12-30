@@ -3,12 +3,13 @@ import os
 import json
 
 index = []
+PATH = "presets"
 KEYS = ["title", "type", "format", "author", "parameters"]
 URL = "https://github.com/openencoder/presets/raw/main/presets/"
 
 with open("index.json", "w", encoding="utf-8") as out:
-    for file in os.scandir("presets"):
-        with open(file.path, "r", encoding="utf-8") as fp:
+    for file in sorted(os.listdir(PATH)):
+        with open(os.path.join(PATH, file), "r", encoding="utf-8") as fp:
             h = json.loads(fp.read())
 
             for key in KEYS:
@@ -18,7 +19,7 @@ with open("index.json", "w", encoding="utf-8") as out:
 
             del h["parameters"]
 
-            h["url"] = URL + file.name
+            h["url"] = URL + file
             index.append(h)
 
 
