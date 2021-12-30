@@ -1,0 +1,9 @@
+{
+    "title": "AAC low quality",
+    "type": "Aduio",
+    "format": "aac",
+    "author": "Evan Hsu",
+    "parameters": {
+        "c:a": "aac", "ar": "44100", "b:a": "128k"
+    }
+}

@@ -4,6 +4,6 @@
     "format": "mov",
     "author": "Evan Hsu",
     "parameters": {
-	"c:v": "cfhd", "quality": "medium"
+        "c:v": "cfhd", "quality": "medium"
     }
 }

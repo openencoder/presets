@@ -1,0 +1,10 @@
+{
+    "title": "YouTube 1080p",
+    "type": "YouTube",
+    "format": "mp4",
+    "author": "Evan Hsu",
+    "parameters": {
+        "c:v": "libx264", "crf": "18", "vf": "scale='min(1080,iw)':-1",
+        "c:a": "aac", "ar": "48000", "b:a": "320k"
+    }
+}

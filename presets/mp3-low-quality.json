@@ -1,0 +1,9 @@
+{
+    "title": "MP3 low quality",
+    "type": "Aduio",
+    "format": "mp3",
+    "author": "Evan Hsu",
+    "parameters": {
+        "c:a": "libmp3lame", "ar": "44100", "b:a": "128k"
+    }
+}

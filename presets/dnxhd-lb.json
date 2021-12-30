@@ -4,6 +4,6 @@
     "format": "mov",
     "author": "Evan Hsu",
     "parameters": {
-	"c:v": "dnxhd",	"profile:v": "dnxhr_lb", "pix_fmt": "yuv422p"
+        "c:v": "dnxhd",	"profile:v": "dnxhr_lb", "pix_fmt": "yuv422p"
     }
 }

@@ -4,6 +4,6 @@
     "format": "mov",
     "author": "Evan Hsu",
     "parameters": {
-	"c:v": "prores", "profile:v": "4"
+        "c:v": "prores", "profile:v": "4"
     }
 }
