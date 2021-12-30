@@ -14,7 +14,7 @@ with open("index.json", "w", encoding="utf-8") as out:
 
             for key in KEYS:
                 if key not in h:
-                    raise Exception(f"parameter {key} is missing in {file.path}")
+                    raise Exception(f"parameter {key} is missing in {file}")
 
 
             del h["parameters"]
