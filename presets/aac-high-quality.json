@@ -1,9 +1,9 @@
 {
-    "title": "MP3 high quality",
+    "title": "AAC high quality",
     "type": "Aduio",
-    "format": "mp3",
+    "format": "aac",
     "author": "Evan Hsu",
     "parameters": {
-        "c:a": "libmp3lame", "ar": "44100", "b:a": "320k"
+        "c:a": "aac", "ar": "44100", "b:a": "320k"
     }
 }
