@@ -1,9 +1,0 @@
-{
-    "title": "H264 CRF",
-    "type": "Video",
-    "format": "mp4",
-    "author": "Evan Hsu",
-    "parameters": {
-        "c:v": "libx264", "crf": "18", "c:a": "aac", "b:a": "320k"
-    }
-}
