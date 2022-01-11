@@ -1,0 +1,10 @@
+{
+    "title": "Android 720p",
+    "type": "Devices",
+    "format": "mp4",
+    "author": "Evan Hsu",
+    "parameters": {
+        "c:v": "libx264", "profile:v": "main", "crf": "18", "vf": "scale='min(720,iw)':-2",
+        "c:a": "aac", "ar": "44100", "b:a": "320k"
+    }
+}
