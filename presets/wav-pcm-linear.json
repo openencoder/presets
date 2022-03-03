@@ -1,6 +1,6 @@
 {
     "title": "WAV pcm linear",
-    "type": "Aduio",
+    "type": "Audio",
     "format": "wav",
     "author": "Evan Hsu",
     "parameters": {

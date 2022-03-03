@@ -1,21 +1,21 @@
 [
   {
     "title": "AAC high quality",
-    "type": "Aduio",
+    "type": "Audio",
     "format": "aac",
     "author": "Evan Hsu",
     "url": "https://github.com/openencoder/presets/raw/main/presets/aac-high-quality.json"
   },
   {
     "title": "AAC low quality",
-    "type": "Aduio",
+    "type": "Audio",
     "format": "aac",
     "author": "Evan Hsu",
     "url": "https://github.com/openencoder/presets/raw/main/presets/aac-low-quality.json"
   },
   {
     "title": "AAC medium quality",
-    "type": "Aduio",
+    "type": "Audio",
     "format": "aac",
     "author": "Evan Hsu",
     "url": "https://github.com/openencoder/presets/raw/main/presets/aac-medium-quality.json"
@@ -190,21 +190,21 @@
   },
   {
     "title": "MP3 high quality",
-    "type": "Aduio",
+    "type": "Audio",
     "format": "mp3",
     "author": "Evan Hsu",
     "url": "https://github.com/openencoder/presets/raw/main/presets/mp3-high-quality.json"
   },
   {
     "title": "MP3 low quality",
-    "type": "Aduio",
+    "type": "Audio",
     "format": "mp3",
     "author": "Evan Hsu",
     "url": "https://github.com/openencoder/presets/raw/main/presets/mp3-low-quality.json"
   },
   {
     "title": "MP3 medium quality",
-    "type": "Aduio",
+    "type": "Audio",
     "format": "mp3",
     "author": "Evan Hsu",
     "url": "https://github.com/openencoder/presets/raw/main/presets/mp3-medium-quality.json"
@@ -274,7 +274,7 @@
   },
   {
     "title": "WAV pcm linear",
-    "type": "Aduio",
+    "type": "Audio",
     "format": "wav",
     "author": "Evan Hsu",
     "url": "https://github.com/openencoder/presets/raw/main/presets/wav-pcm-linear.json"
